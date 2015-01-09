@@ -69,7 +69,7 @@ API docs should look like:
     <%= headers 200, :pagination => true, 'X-Custom-Header' => "value" %>
     <%= json :resource_name %>
 
-**Note**: We're using [Kramdown Markdown extensions](http://kramdown.rubyforge.org/syntax.html), such as definition lists.
+**Note**: We're using [Kramdown Markdown extensions](http://kramdown.gettalong.org/syntax.html), such as definition lists.
 
 ### Markdown Conventions
 
